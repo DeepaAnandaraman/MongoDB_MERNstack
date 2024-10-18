@@ -13,14 +13,17 @@ Book Categories:
 
 Epic Tales organizes its book collection into distinct categories: Fiction, Non-Fiction, Romance, and Thriller.
 Users can browse through these categories to find books that suit their interests, enhancing the overall user experience.
-Responsive Design:
 
+Responsive Design:
 The website is designed to be responsive, ensuring a seamless experience across different devices, including desktops, tablets, and mobile phones.
 MERN Stack Implementation:
 
 MongoDB: Used for storing user data and book information.
+
 Express.js: Acts as the backend framework, handling API requests and routing.
+
 React.js: Provides a dynamic frontend experience, allowing users to interact with the website effortlessly.
+
 Node.js: Serves as the server environment, facilitating communication between the client and the database.
 
 
