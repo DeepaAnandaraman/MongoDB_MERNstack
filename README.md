@@ -22,4 +22,6 @@ MongoDB: Used for storing user data and book information.
 Express.js: Acts as the backend framework, handling API requests and routing.
 React.js: Provides a dynamic frontend experience, allowing users to interact with the website effortlessly.
 Node.js: Serves as the server environment, facilitating communication between the client and the database.
+
+
 Conclusion: Epic Tales not only provides a platform for purchasing books but also fosters a community of readers through its user-centric features. The combination of the MERN stack allows for a robust and scalable application, paving the way for future enhancements and additional functionalities.
